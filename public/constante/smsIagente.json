@@ -1,0 +1,14 @@
+{
+  "nome": "SMS Iagente",
+  "link": "https://www.iagente.com.br/sms",
+  "constantes": {
+    "Email": {
+      "input": "text",
+      "column": "smsiagenteuser"
+    },
+    "Senha": {
+      "input": "text",
+      "column": "smsiagentesenha"
+    }
+  }
+}

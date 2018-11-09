@@ -1,0 +1,19 @@
+{
+  "name": "conn/sms",
+  "description": "Envio de SMS",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Edinei J. Bauer",
+      "email": "edineibauer@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.1"
+  },
+  "autoload": {
+    "psr-0": {
+      "Sms": "public/src/"
+    }
+  }
+}
